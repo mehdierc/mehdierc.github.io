@@ -25,7 +25,7 @@ slidename: khayyamrobot
   <img class="slide_{{ page.slidename }}" src="/images/khayyamrobot-5.jpg" style="width:100%">
   <img class="slide_{{ page.slidename }}" src="/images/khayyamrobot-6.jpg" style="width:100%">
   <img class="slide_{{ page.slidename }}" src="/images/khayyamrobot-7.jpg" style="width:100%">
-  <img class="slide_{{ page.slidename }}" src="/images/khayyamrobot-me.jpg" style="width:100%">
+  <img class="slide_{{ page.slidename }}" src="/images/khayyam-robot-me.jpg" style="width:100%">
 </div>
 
 <div class="w3-center">

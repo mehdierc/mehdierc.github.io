@@ -4,7 +4,7 @@ title:  "SOS rescue robot"
 date:   2016-09-04 23:39:20
 permalink: projects/rescue_sos
 ---
-{% include image.html url="/images/sos-2.jpg" caption="" width=560 align="center" %}
+{% include image.html url="/images/sos-e-2.jpg" caption="" width=560 align="center" %}
 <br>
 {% include image.html url="/images/sos-logo.jpg" caption="" width=250 align="left" %}
 <p align="justify">
@@ -25,8 +25,8 @@ There is a PC inside the robot that processes images, the output of sensors, con
 
 <div class="w3-content" style="max-width:560px">
   <img class="slide_{{ page.slidename }}" src="/images/sos-1.jpg" style="width:100%">
-  <img class="slide_{{ page.slidename }}" src="/images/sos-3.jpg" style="width:100%">
-  <img class="slide_{{ page.slidename }}" src="/images/sos-4.jpg" style="width:100%">
+  <img class="slide_{{ page.slidename }}" src="/images/sos-e-3.jpg" style="width:100%">
+  <img class="slide_{{ page.slidename }}" src="/images/sos-e-4.jpg" style="width:100%">
   <img class="slide_{{ page.slidename }}" src="/images/sos-5.jpg" style="width:100%">
   <img class="slide_{{ page.slidename }}" src="/images/sos-6.jpg" style="width:100%">
   <img class="slide_{{ page.slidename }}" src="/images/sos-7.jpg" style="width:100%">
