@@ -12,6 +12,7 @@ permalink: /projects/
   <li><strong><a href="#time_server">Time and date server by ARM microcontroller</a></strong></li>
   <li><strong><a href="#bowling">Bowling Robot</a></strong></li>
   <li><strong><a href="#gimbal">Two axis gimbal prototype</a></strong></li>
+  <li><strong><a href="#linefollower">Line follower robot & Solar car</a></strong></li>
 
   <br>
 <ul>
@@ -98,6 +99,17 @@ permalink: /projects/
     {% if post.permalink == "projects/gimbal" %}
       <li>
         <hr> <strong> <a id="gimbal" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <br>
+        {{ post.content }}
+        <br>
+      </li>
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.posts %}
+    {% if post.permalink == "projects/linefollower_robot" %}
+      <li>
+        <hr> <strong> <a id="linefollower" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
         <br>
         {{ post.content }}
         <br>
