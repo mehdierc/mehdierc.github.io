@@ -4,6 +4,8 @@ title: Projects and Research Experiences
 permalink: /projects/
 ---
 <ul>
+
+  <li><strong><a href="#roboasist">Design and implementation of a differential drive mobile robot for SLAM and map-based indoor navigation - RoboAsist</a></strong></li>
   <li><strong><a href="#force_control">High-Precision Polishing Tool with the Ability to Control Machining Forces</a></strong></li>
   <li><strong><a href="#rescue_sos">SOS rescue robot</a></strong></li>
   <li><strong><a href="#data_board">Modular data acquisition and motor control board (Patented)</a></strong></li>
@@ -18,6 +20,17 @@ permalink: /projects/
 <ul>
 
 <ul>
+  {% for post in site.posts %}
+    {% if post.permalink == "projects/roboasist" %}
+      <li>
+        <hr> <strong> <a id="roboasist" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <br>
+        {{ post.content }}
+        <br>
+      </li>
+    {% endif %}
+  {% endfor %}
+
   {% for post in site.posts %}
     {% if post.permalink == "projects/force_control" %}
       <li>
