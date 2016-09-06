@@ -20,9 +20,9 @@ In the last year of high school, I was robotics and electronics trainer for the 
 <div class="w3-content" style="max-width:560px">
   <img class="slide_{{ page.slidename }}" src="/images/linefollower-3.jpg" style="width:100%">
   <img class="slide_{{ page.slidename }}" src="/images/linefollower-2.jpg" style="width:100%">
-  <img class="slide_{{ page.slidename }}" src="/images/linefollower-sch.jpg" style="width:100%">
-  <img class="slide_{{ page.slidename }}" src="/images/linefollower-pcb.jpg" style="width:100%">
-  <img class="slide_{{ page.slidename }}" src="/images/solarcar.jpg" style="width:100%">
+  <img class="slide_{{ page.slidename }}" src="/images/linefollower-sch-e.jpg" style="width:100%">
+  <img class="slide_{{ page.slidename }}" src="/images/linefollower-pcb-e.jpg" style="width:100%">
+  <img class="slide_{{ page.slidename }}" src="/images/solarcar-e.jpg" style="width:100%">
 </div>
 
 <div class="w3-center">
