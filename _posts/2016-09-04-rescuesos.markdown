@@ -3,6 +3,7 @@ layout: post
 title:  "SOS rescue robot"
 date:   2016-09-04 23:39:20
 permalink: projects/rescue_sos
+slidename: rescuesos
 ---
 {% include image.html url="/images/sos-e-2.jpg" caption="" width=560 align="center" %}
 <br>

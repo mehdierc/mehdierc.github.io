@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Two axis gimbal prototype"
+date:   2016-09-04 17:00:20
+permalink: projects/gimbal
+---
+<p align="justify">
+I created this simple two axis gimbal prototype for installing cameras and laser scanners on mobile robots and drones.
+<br><br>
+<b>See the following video:</b>
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZjMMa2HnCHs" frameborder="0" allowfullscreen></iframe>
+</p>
+</p>
