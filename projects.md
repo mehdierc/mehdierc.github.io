@@ -18,7 +18,7 @@ permalink: /projects/
   <li><strong><a href="#linefollower">Line follower robot & Solar car</a></strong></li>
 
   <br>
-<ul>
+</ul>
 
 <ul>
   {% for post in site.posts %}
