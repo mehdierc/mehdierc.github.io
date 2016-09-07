@@ -24,7 +24,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/roboasist" %}
       <li>
-        <hr> <strong> <a id="roboasist" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="roboasist"> {{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -35,7 +35,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/force_control" %}
       <li>
-        <hr> <strong> <a id="force_control" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="force_control">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -46,7 +46,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/rescue_sos" %}
       <li>
-        <hr> <strong> <a id="rescue_sos" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="rescue_sos">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -57,7 +57,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/intern_industry" %}
       <li>
-        <hr> <strong> <a id="intern_industry" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="intern_industry">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -68,7 +68,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/data_board" %}
       <li>
-        <hr> <strong> <a id="data_board" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="data_board">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -79,7 +79,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/khayyam_robot" %}
       <li>
-        <hr> <strong> <a id="khayyam_robot" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="khayyam_robot">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -90,7 +90,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/thermal_camera" %}
       <li>
-        <hr> <strong> <a id="thermal_camera" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="thermal_camera">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -101,7 +101,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/time_server" %}
       <li>
-        <hr> <strong> <a id="time_server" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="time_server">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -112,7 +112,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/bowling_robot" %}
       <li>
-        <hr> <strong> <a id="bowling" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="bowling">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -123,7 +123,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/gimbal" %}
       <li>
-        <hr> <strong> <a id="gimbal" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="gimbal">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -134,7 +134,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/linefollower_robot" %}
       <li>
-        <hr> <strong> <a id="linefollower" href="{{ post.url }}">{{ post.title }}</a> </strong> <hr>
+        <hr> <strong id="linefollower">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
