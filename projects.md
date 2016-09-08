@@ -5,10 +5,11 @@ permalink: /projects/
 ---
 <ul>
 
-  <li><strong><a href="#roboasist">Design and implementation of a differential drive mobile robot for SLAM and map-based indoor navigation - RoboAsist</a></strong></li>
+  <li><strong><a href="#roboasist">Design and implementation of a differential drive mobile robot for SLAM and map-based indoor navigation</a></strong></li>
   <li><strong><a href="#force_control">High-Precision Polishing Tool with the Ability to Control Machining Forces</a></strong></li>
   <li><strong><a href="#rescue_sos">SOS rescue robot</a></strong></li>
   <li><strong><a href="#intern_industry">Water pumping station automation, summer internship</a></strong></li>
+  <li><strong><a href="#learning">A model learning approach for General video game playing (GVGP) - (in preparation)</a></strong></li>
   <li><strong><a href="#data_board">Modular data acquisition and motor control board (Patented)</a></strong></li>
   <li><strong><a href="#thermal_camera">Thermal camera by TPA81 infrared sensor, Arduino and ROS framework</a></strong></li>
   <li><strong><a href="#khayyam_robot">Khayyam rescue robot</a></strong></li>
@@ -58,6 +59,17 @@ permalink: /projects/
     {% if post.permalink == "projects/intern_industry" %}
       <li>
         <hr> <strong id="intern_industry">{{ post.title }} </strong> <hr>
+        <br>
+        {{ post.content }}
+        <br>
+      </li>
+    {% endif %}
+  {% endfor %}
+
+  {% for post in site.posts %}
+    {% if post.permalink == "projects/learning" %}
+      <li>
+        <hr> <strong id="learning">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
