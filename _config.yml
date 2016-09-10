@@ -4,14 +4,14 @@ email: mehdi.erc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: MehdiMehdikhani
-github_username: mehdierc
+url: "https://mehdierc.github.io" # the base hostname & protocol for your site
+twitter_username: #MehdiMehdikhani
+github_username: #mehdierc
 linkedin_username: mehdimehdikhani
-google_plus_username: MehdiMehdikhani
+google_plus_username: #MehdiMehdikhani
 facebook_username: mehdikhani.mehdi
-youtube_channel: UCYVrwNGymMMvXI9Oqd3JYHg
-instagram_username: mehdikhanimehdi
+youtube_channel: #UCYVrwNGymMMvXI9Oqd3JYHg
+instagram_username: #mehdikhanimehdi
 # Build settings
 markdown: kramdown
 
