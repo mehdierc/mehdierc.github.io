@@ -9,8 +9,7 @@ slidename: bowlinger
 {% include image.html url="/images/bowling-2.jpg" caption="" width=560 align="center" %}
 
 <p align="justify">
-From childhood, I was interested in computers and robotics so much that sometimes, I was traveling 200 miles to buy simple components and parts to create simple robots and electronic kits.
-I made this robot at the age of fourteen, and it was able to play bowling as an intelligent bowling ball! This robot was working with transistors, electronic relays, and simple digital gates and I can remember that I designed and created most of its circuits and  PCBs by hand. :)
+I have interested in robotics since childhood. I made this robot at the age of fourteen, and it was able to play bowling as an intelligent bowling ball, detect and hit pins! This robot was working with transistors, electronic relays, and simple digital gates and I can remember that I designed and created most of its circuits and PCBs by hand. :)
 <br><br>
 <b>See the following video:</b>
 <p align="center">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Water pumping station automation, summer internship"
+title:  "HMI design and PLC programming, Water pumping station - summer internship"
 date:   2016-09-03 23:21:00
 permalink: projects/intern_industry
 slidename: industrialintern
@@ -9,7 +9,7 @@ slidename: industrialintern
 
 {% include image.html url="/images/intern-1.jpg" caption="" width=560 align="center" %}
 <p align="justify">
-My summer internship was on the subject of industrial automation in Arghanon corporation (Industrial automation services).
+My summer internship was on the subject of industrial automation in Organon corporation (Industrial automation services).
 I learned a lot of things about PLC programming, HMI design, and electrical panels.
 I participated in a water pumping station project as an industrial automation technician. The project was about controlling four electromotors for filling a water tank, and my duty was HMI design and PLC programming for line pressure control.
   <br><br>

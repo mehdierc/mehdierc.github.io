@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Time server using ARM LPC1768"
+title:  "Time and date server by ARM microcontroller LPC1768"
 date:   2016-09-04 16:27:00
 permalink: projects/time_server
 slidename: timeserver

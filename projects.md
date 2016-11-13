@@ -5,18 +5,18 @@ permalink: /projects/
 ---
 <ul>
 
-  <li><strong><a href="#roboasist">Design and implementation of a differential drive mobile robot for SLAM and map-based indoor navigation</a></strong></li>
-  <li><strong><a href="#force_control">High-Precision Polishing Tool with the Ability to Control Machining Forces</a></strong></li>
-  <li><strong><a href="#rescue_sos">SOS rescue robot</a></strong></li>
-  <li><strong><a href="#intern_industry">Water pumping station automation, summer internship</a></strong></li>
-  <li><strong><a href="#learning">A model learning approach for General video game playing (GVGP) - (in preparation)</a></strong></li>
-  <li><strong><a href="#data_board">Modular data acquisition and motor control board (Patented)</a></strong></li>
+  <li><strong><a href="#roboasist">Design and construction of a differential drive mobile robot with the ability to do SLAM and map-based indoor navigation</a></strong></li>
+  <li><strong><a href="#force_control">Design and construction of a high-precision polishing tool with the ability to control machining forces</a></strong></li>
+  <li><strong><a href="#intern_industry">HMI design and PLC programming, Water pumping station (Summer Internship)</a></strong></li>
+  <li><strong><a href="#rescue_sos">Managing SOS rescue robot team</a></strong></li>
+  <li><strong><a href="#learning">A model learning approach for General video game playing (GVGP)</a></strong></li>
+  <li><strong><a href="#data_board">Expandable data acquisition and motor control device (Patented)</a></strong></li>
   <li><strong><a href="#thermal_camera">Thermal camera by TPA81 infrared sensor, Arduino and ROS framework</a></strong></li>
-  <li><strong><a href="#khayyam_robot">Khayyam rescue robot</a></strong></li>
+  <li><strong><a href="#gimbal">Two axis gimbal prototype with Dynamixel servo motors and Xsens IMU</a></strong></li>
   <li><strong><a href="#time_server">Time and date server by ARM microcontroller</a></strong></li>
-  <li><strong><a href="#bowling">Bowling Robot</a></strong></li>
-  <li><strong><a href="#gimbal">Two axis gimbal prototype</a></strong></li>
-  <li><strong><a href="#linefollower">Line follower robot & Solar car</a></strong></li>
+  <li><strong><a href="#khayyam_robot">Design and construction of a junior rescue robot (High School)</a></strong></li>
+  <li><strong><a href="#bowling">Design and construction of a Bowling Robot</a></strong></li>
+  <li><strong><a href="#linefollower">Robotic Tutor: Line follower robot & Solar car (High School)</a></strong></li>
 
   <br>
 </ul>
@@ -45,9 +45,9 @@ permalink: /projects/
   {% endfor %}
 
   {% for post in site.posts %}
-    {% if post.permalink == "projects/rescue_sos" %}
+    {% if post.permalink == "projects/intern_industry" %}
       <li>
-        <hr> <strong id="rescue_sos">{{ post.title }} </strong> <hr>
+        <hr> <strong id="intern_industry">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -56,9 +56,9 @@ permalink: /projects/
   {% endfor %}
 
   {% for post in site.posts %}
-    {% if post.permalink == "projects/intern_industry" %}
+    {% if post.permalink == "projects/rescue_sos" %}
       <li>
-        <hr> <strong id="intern_industry">{{ post.title }} </strong> <hr>
+        <hr> <strong id="rescue_sos">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -89,9 +89,9 @@ permalink: /projects/
   {% endfor %}
 
   {% for post in site.posts %}
-    {% if post.permalink == "projects/khayyam_robot" %}
+    {% if post.permalink == "projects/thermal_camera" %}
       <li>
-        <hr> <strong id="khayyam_robot">{{ post.title }} </strong> <hr>
+        <hr> <strong id="thermal_camera">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -100,9 +100,9 @@ permalink: /projects/
   {% endfor %}
 
   {% for post in site.posts %}
-    {% if post.permalink == "projects/thermal_camera" %}
+    {% if post.permalink == "projects/gimbal" %}
       <li>
-        <hr> <strong id="thermal_camera">{{ post.title }} </strong> <hr>
+        <hr> <strong id="gimbal">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -122,9 +122,9 @@ permalink: /projects/
   {% endfor %}
 
   {% for post in site.posts %}
-    {% if post.permalink == "projects/bowling_robot" %}
+    {% if post.permalink == "projects/khayyam_robot" %}
       <li>
-        <hr> <strong id="bowling">{{ post.title }} </strong> <hr>
+        <hr> <strong id="khayyam_robot">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
@@ -133,9 +133,9 @@ permalink: /projects/
   {% endfor %}
 
   {% for post in site.posts %}
-    {% if post.permalink == "projects/gimbal" %}
+    {% if post.permalink == "projects/bowling_robot" %}
       <li>
-        <hr> <strong id="gimbal">{{ post.title }} </strong> <hr>
+        <hr> <strong id="bowling">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>

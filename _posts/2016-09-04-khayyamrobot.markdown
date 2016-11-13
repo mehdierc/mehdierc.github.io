@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Khayyam rescue robot"
+title:  "Design and construction of a junior rescue robot (High School) - Khayyam rescue robot"
 date:   2016-09-04 20:21:00
 permalink: projects/khayyam_robot
 slidename: khayyamrobot

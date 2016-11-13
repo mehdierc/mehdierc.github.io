@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "High-Precision force control"
+title:  "Design and construction of a high-precision polishing tool with the ability to control machining forces"
 date:   2016-09-03 23:21:00
 permalink: projects/force_control
 slidename: forcecontrol
@@ -9,7 +9,7 @@ slidename: forcecontrol
 
 {% include image.html url="/images/force-device.jpg" caption="" width=560 align="center" %}
 <p align="justify">
-This project was a long-running project with a major problem related to repeatability and controllability. The system was using a load cell to provide force feedback, but the feedback was not enough because of malfunctioning and friction of mechanical parts. I found an innovative solution to the problem of the system by replacing the load cell with an hand-made high precision infrared distance sensor and correlating the end-effector force with the distance of a two moving parts of the system. I changed the whole embedded hardware and control software. Finally, the problem solved, and the system worked, but this time, five times more accurate than expected. If you are interested in this project, feel free to contact me for more information. 
+This project was a long-running project with a major problem related to repeatability and controllability. The system was using a load cell to provide force feedback, but the feedback was not enough because of malfunctioning and friction of mechanical parts. I found an innovative solution to the problem of the system by replacing the load cell with an hand-made high precision infrared distance sensor and correlating the end-effector force with the distance of a two moving parts of the system. I changed the whole embedded hardware and control software. Finally, the problem solved, and the system worked, but this time, five times more accurate than expected. If you are interested in this project, feel free to contact me for more information.
   <br><br>
   <b>See the following video:</b>
   <p align="center">

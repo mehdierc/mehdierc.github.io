@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design and implementation of a differential drive mobile robot for SLAM and map-based indoor navigation - RoboAsist"
+title:  "Design and construction of a differential drive mobile robot with the ability to do SLAM and map-based indoor navigation - RoboAsist"
 date:   2016-09-04 23:21:00
 permalink: projects/roboasist
 slidename: roboasist
@@ -8,13 +8,13 @@ slidename: roboasist
 
 {% include image.html url="/images/roboasist-1.jpg" caption="" width=300 align="center" %}
 <p align="justify">
-RoboAsist is a differential drive mobile robot similar to Turtlebot. I designed and implemented it from scratch in
+RoboAsist is a differential drive mobile robot similar to <a href="http://www.turtlebot.com/">Turtlebot</a>. I designed and constructed it from scratch in
 <a href="http://armlab.iut.ac.ir/" target="_blank">Advance Robotic and Mechatronic Laboratory (ARMLab)</a> with the aim of research on mobile robots.
 My B.Sc. thesis defined on this robot, and it was about studying the theory and practical implementation of Simultaneous Localization and Mapping (SLAM) and map-based indoor navigation.
 Furthermore, I implemented a simple colored-object follower on RoboAsist, based on Camshift algorithm.
 I named this robot RoboAsist because of its ultimate goal: Laboratory assistant robot.
 <br><br>
-You can see the results of my works in the following videos, and design and implementation process in the following image gallery.
+You can see the results of my works in the following videos, and design and construction process in the following image gallery.
   <br><br>
   <b>See the following playlist:</b>
   <p align="center">
