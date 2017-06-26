@@ -11,5 +11,5 @@ One of the hardware related problems of our robotic teams was about reading rota
 {% include image.html url="/images/daq-2.jpg" caption="" width=350 align="center" %}
 Each encoder input can support up to 100Khz frequency, and each motor driver can connect to system through PWM pulse, I2C or RS232 protocol.
 The motherboard can connect to a computer or other controller boards with a proprietary protocol through USB, RS232 or SPI.
-This system also provides 20 Digital Input/Output, ten analog input, and five analog output.
+This system also provides 20 Digital Input/Output, ten analog input, and five analog output. <a href="http://ip.ssaa.ir/Patent/SearchResult.aspx?DecNo=139550140003001688&RN=92172">See patent</a>
 </p>

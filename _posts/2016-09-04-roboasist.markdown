@@ -25,7 +25,7 @@ You can see the results of my works in the following videos, and design and cons
   <br>
 
   <div class="w3-content" style="max-width:560px">
-    <img class="slide_{{ page.slidename }}" src="/images/roboasist-2.jpg" style="width:100%">
+    <img class="slide_{{ page.slidename }}" src="/images/roboasist-12.jpg" style="width:100%">
     <img class="slide_{{ page.slidename }}" src="/images/roboasist-3.jpg" style="width:100%">
     <img class="slide_{{ page.slidename }}" src="/images/roboasist-4.jpg" style="width:100%">
     <img class="slide_{{ page.slidename }}" src="/images/roboasist-5.jpg" style="width:100%">
@@ -35,7 +35,7 @@ You can see the results of my works in the following videos, and design and cons
     <img class="slide_{{ page.slidename }}" src="/images/roboasist-9.jpg" style="width:100%">
     <img class="slide_{{ page.slidename }}" src="/images/roboasist-10.jpg" style="width:100%">
     <img class="slide_{{ page.slidename }}" src="/images/roboasist-11.jpg" style="width:100%">
-    <img class="slide_{{ page.slidename }}" src="/images/roboasist-12.jpg" style="width:100%">
+    <img class="slide_{{ page.slidename }}" src="/images/roboasist-2.jpg" style="width:100%">
   </div>
 
   <div class="w3-center">

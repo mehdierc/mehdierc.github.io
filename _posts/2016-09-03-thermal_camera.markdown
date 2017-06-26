@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design and construction of a thermal camera by TPA81 infrared sensor, Arduino and ROS framework"
+title:  "Design and construction of a thermal camera by TPA81 infrared sensor"
 date:   2016-09-03 22:00:00
 permalink: projects/thermal_camera
 ---

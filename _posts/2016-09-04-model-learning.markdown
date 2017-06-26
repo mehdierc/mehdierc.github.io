@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A model learning approach for General video game playing (GVGP) - (in preparation)"
+title:  "A model learning approach for General video game playing (GVGP)"
 date:   2016-09-04 15:21:00
 permalink: projects/learning
 ---
