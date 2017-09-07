@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title:
 permalink: /projects/
 ---
 <ul>
@@ -155,6 +155,11 @@ permalink: /projects/
   {% endfor %}
 
 </ul>
+
+
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(101071208); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101071208ns.gif" /></p></noscript>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
