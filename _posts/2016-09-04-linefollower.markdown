@@ -8,7 +8,7 @@ slidename: linefollowerbot
 
 {% include image.html url="/images/linefollower-1.jpg" caption="" width=560 align="center" %}
 <p align="justify">
-In the last year of high school, I was robotics and electronics trainer for the secondary level students in student research center of my school's city. In my class, we created a line follower robot and a small solar car.
+I was robotics and electronics tutor for the secondary level students in a student research center. In my class, we created a line follower robot and a small solar car.
 <br><br>
 <b>See the following video:</b>
 <p align="center">
