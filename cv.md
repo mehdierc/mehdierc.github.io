@@ -6,7 +6,7 @@ permalink: /cv/
 
 I embed a current version of my CV below. You can also [download the PDF here](/documents/Mehdi Mehdikhani CV.pdf).
 
-{% include embedpdf.html code="t3yn57sg77ajver/CV.pdf?dl=0" width=100 height=800 %}
+{% include embedpdf.html code="zzum3hjkf24n2dr/Mehdi%20Mehdikhani%20CV.pdf?dl=0" width=100 height=800 %}
 
 <script src="//static.getclicky.com/js" type="text/javascript"></script>
 <script type="text/javascript">try{ clicky.init(101071208); }catch(e){}</script>
