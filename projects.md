@@ -70,7 +70,7 @@ permalink: /projects/
   {% for post in site.posts %}
     {% if post.permalink == "projects/hapticboard" %}
       <li>
-        <hr> <strong id="data_board">{{ post.title }} </strong> <hr>
+        <hr> <strong id="hapticboard">{{ post.title }} </strong> <hr>
         <br>
         {{ post.content }}
         <br>
